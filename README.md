@@ -1,1 +1,7 @@
-# hg_2_delta
+Delta
+
+Participantes:
+Abraham - Alfa -
+Jose Gamboa - Bravo -
+Beiker - Charlie -
+Patricia Lugo - Delta -
