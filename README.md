@@ -1,4 +1,4 @@
-😊 Delta
+😊<b>Delta </b>
 
 <b> Participantes: </b>
 <b>Abraham - Alfa -</b>
