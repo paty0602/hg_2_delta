@@ -1,7 +1,7 @@
-Delta
+😊 Delta
 
-Participantes:
-Abraham - Alfa -
-Jose Gamboa - Bravo -
-Beiker - Charlie -
-Patricia Lugo - Delta -
+<b> Participantes: </b>
+<b>Abraham - Alfa -</b>
+<b>Jose Gamboa - Bravo -</b>
+<b>Beiker - Charlie -</b>
+<b>Patricia Lugo - Delta -</b>
